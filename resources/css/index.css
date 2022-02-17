@@ -11,3 +11,21 @@
     text-align: center;
     color:white;
 }
+#heading2{
+    font-family: Verdana;
+    font-weight: 300;
+    font-size: 42px;
+}
+#p2{
+    font-family: Verdana;
+    font-size: 21px;
+    color:gray;
+}
+.footer{
+    text-align: right;
+    color: gray;
+}
+#link1{
+color:aquamarine;
+font-size: 16px;
+}
